@@ -1,0 +1,42 @@
+.cm-s-xxx.CodeMirror {
+  background-color
+  line-height
+  font-family
+  color
+}
+
+/* 予約後 (global, class, etc) */
+.cm-s-xxx .cm-keyword {
+  color:
+}
+
+/* 型、定義名 (String, etc) */
+.cm-s-xxx .cm-def {
+  color:
+}
+
+/* 変数名 */
+.VARIABLE_DECLARATION {
+  color:
+}
+
+/* 文字列の値 */
+.cm-s-xxx .cm-string {
+  color:
+}
+
+/* 数値 */
+.cm-s-xxx .cm-number {
+  color
+}
+
+/* アノテーション */
+.cm-s-xxx .cm-meta {
+  color
+}
+
+/* コメント */
+.cm-s-xxx .cm-meta {
+  color
+  font-style: italic
+}
